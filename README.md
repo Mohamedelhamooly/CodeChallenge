@@ -13,7 +13,7 @@
  * `Utils` helpers
  * `Model`  convert response API
  * `View`  ui logic
- * `ViewModel`  bussnis logic
+ * `ViewModel`  business logic
  * `Networking` network layer 
  * `Resoucres`  Assets
  * `Main` AppDelegate
